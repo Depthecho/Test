@@ -1,5 +1,5 @@
 print('Hello World !!')
 
-if True:
+while True:
     for name in ['Ky', 'Keegan', 'Nate']:
         print(name)
