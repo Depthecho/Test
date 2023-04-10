@@ -1,4 +1,4 @@
 print('Hello World !!')
 
-if input('Имя: ') == 'Егор':
-    print('Привет, Егор!')
+for name in ['Ky', 'Keegan', 'Nate']:
+    print(name)
