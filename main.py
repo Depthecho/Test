@@ -1,4 +1,5 @@
 print('Hello World !!')
 
-for name in ['Ky', 'Keegan', 'Nate']:
-    print(name)
+if True:
+    for name in ['Ky', 'Keegan', 'Nate']:
+        print(name)
