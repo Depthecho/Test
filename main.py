@@ -1,2 +1,4 @@
 print('Hello World !!')
-print('I am in master')
+
+if input('Имя: ') == 'Егор':
+    print('Привет, Егор!')
